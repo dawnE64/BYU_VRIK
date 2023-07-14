@@ -1,0 +1,8 @@
+FileVersion:2
+Type:Static
+Guid:6F350D69-4240-B7BB-7351-B1A2A5D7046C
+ParentGuid:00000000-0000-0000-0000-000000000000
+
+/Game/Blueprints/BP_VRPlayer.BP_VRPlayer
+/Game/Characters/Mannequin_UE4/Animation/BS_VRPlayerWalk.BS_VRPlayerWalk
+/Game/VRTemplate/Blueprints/VRPawn.VRPawn
