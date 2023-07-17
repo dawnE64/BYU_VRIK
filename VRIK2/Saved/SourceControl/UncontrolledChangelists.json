@@ -5,6 +5,8 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
+				"C:/Users/jstout/Documents/GitHub/BYU_VRIK/VRIK2/Content/VRTemplate/Maps/OnyxTestMap.umap",
+				"C:/Users/jstout/Documents/GitHub/BYU_VRIK/VRIK2/Content/Blueprints/BP_PoseDebugDraw.uasset",
 				"F:/GameDev/VRIK2/Content/StarterContent/HDRI/HDRI_Epic_Courtyard_Daylight.uasset",
 				"F:/GameDev/VRIK2/Content/VRTemplate/Blueprints/T_Mirror.uasset",
 				"F:/GameDev/VRIK2/Content/VRTemplate/Blueprints/M_Mirror.uasset",
