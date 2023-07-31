@@ -5,6 +5,11 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
+				"F:/GameDev/BYU_VRIK/VRIK2/Content/Characters/Mixamo/ABP_Mixamo.uasset",
+				"F:/GameDev/BYU_VRIK/VRIK2/Content/Blueprints/I_TrainingSetSkeleton.uasset",
+				"F:/GameDev/BYU_VRIK/VRIK2/Content/Blueprints/BP_PoseDebugDraw.uasset",
+				"F:/GameDev/BYU_VRIK/VRIK2/Content/Blueprints/PosesTable.uasset",
+				"F:/GameDev/BYU_VRIK/VRIK2/Content/Blueprints/OnyxPosesTable.uasset",
 				"C:/Users/jstout/Documents/GitHub/BYU_VRIK/VRIK2/Content/VRTemplate/Maps/OnyxTestMap.umap",
 				"C:/Users/jstout/Documents/GitHub/BYU_VRIK/VRIK2/Content/Blueprints/BP_PoseDebugDraw.uasset",
 				"C:/Users/jstout/Documents/GitHub/BYU_VRIK/VRIK2/Content/Characters/Mixamo/ABP_Mixamo.uasset",
