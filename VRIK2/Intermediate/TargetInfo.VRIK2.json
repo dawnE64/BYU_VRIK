@@ -1,0 +1,14 @@
+{
+	"Targets": [
+		{
+			"Name": "VRIK2",
+			"Path": "F:\\GameDev\\BYU_VRIK\\VRIK2\\Source\\VRIK2.Target.cs",
+			"Type": "Game"
+		},
+		{
+			"Name": "VRIK2Editor",
+			"Path": "F:\\GameDev\\BYU_VRIK\\VRIK2\\Source\\VRIK2Editor.Target.cs",
+			"Type": "Editor"
+		}
+	]
+}

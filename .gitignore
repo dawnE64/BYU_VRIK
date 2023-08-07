@@ -72,3 +72,6 @@ Plugins/*/Intermediate/*
 
 # Cache files for the editor to use
 DerivedDataCache/*
+VRIK2/Intermediate/*
+VRIK2/Binaries/*
+VRIK2/Saved/*

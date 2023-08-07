@@ -1,0 +1,15 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UnrealEditor-VRIK2.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"F:\GameDev\BYU_VRIK\VRIK2\Intermediate\Build\Win64\x64\VRIK2Editor\Development\Engine\SharedPCH.Engine.ShadowErrors.InclOrderUnreal5_0.h.obj"
+"F:\GameDev\BYU_VRIK\VRIK2\Intermediate\Build\Win64\x64\UnrealEditor\Development\VRIK2\TextFileInterface.gen.cpp.obj"
+"F:\GameDev\BYU_VRIK\VRIK2\Intermediate\Build\Win64\x64\UnrealEditor\Development\VRIK2\VRIK2.init.gen.cpp.obj"
+"F:\GameDev\BYU_VRIK\VRIK2\Intermediate\Build\Win64\x64\UnrealEditor\Development\VRIK2\TextFileInterface.cpp.obj"
+"F:\GameDev\BYU_VRIK\VRIK2\Intermediate\Build\Win64\x64\UnrealEditor\Development\VRIK2\VRIK2.cpp.obj"
+"F:\GameDev\BYU_VRIK\VRIK2\Intermediate\Build\Win64\x64\UnrealEditor\Development\VRIK2\Default.rc2.res"
+/OUT:"F:\GameDev\BYU_VRIK\VRIK2\Intermediate\Build\Win64\x64\UnrealEditor\Development\VRIK2\UnrealEditor-VRIK2.lib"

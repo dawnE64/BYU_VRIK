@@ -1,0 +1,13 @@
+{
+    "Version": "1.1",
+    "Data": {
+        "Source": "f:\\gamedev\\byu_vrik\\vrik2\\intermediate\\build\\win64\\unrealeditor\\inc\\vrik2\\uht\\vrik2.init.gen.cpp",
+        "ProvidedModule": "",
+        "PCH": "f:\\gamedev\\byu_vrik\\vrik2\\intermediate\\build\\win64\\x64\\vrik2editor\\development\\engine\\sharedpch.engine.shadowerrors.inclorderunreal5_0.h.pch",
+        "Includes": [
+            "f:\\gamedev\\byu_vrik\\vrik2\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\vrik2\\definitions.vrik2.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}
