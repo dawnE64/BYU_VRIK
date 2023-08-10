@@ -1,0 +1,18 @@
+John's Project Notes
+
+Animation data
+https://amass.is.tue.mpg.de/
+ - Read documentation
+ - We're using the B...rub? One? Something like that.
+
+Generated Meshes
+https://smpl.is.tue.mpg.de/
+ - Read documentation
+ - They have blender models as well that I should check out! Maybe someone has a youtube video about getting animations in blender which could help me crack how to interpret data
+
+https://github.com/byucompgraphicslab/AGRoL_Reimplementation/blob/main/data_prep/
+	prepare_data.py		// The functions I'll need to process data from AMASS or SMPL
+		- def get_joint_positions():
+			- Gets some sort of mix of the transform and rotation data?? Output however I want, probably matrix?
+			- At the end of the loop make it so you're actually saving the data
+	lbs.py 			// Dependency that I probably don't need to directly use.
