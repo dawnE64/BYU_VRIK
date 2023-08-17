@@ -16,3 +16,8 @@ https://github.com/byucompgraphicslab/AGRoL_Reimplementation/blob/main/data_prep
 			- Gets some sort of mix of the transform and rotation data?? Output however I want, probably matrix?
 			- At the end of the loop make it so you're actually saving the data
 	lbs.py 			// Dependency that I probably don't need to directly use.
+
+
+IMPU Poser
+ - 3 inputs at most
+ - Compatable with iphone/watch/buds
